@@ -1,0 +1,1 @@
+# VeriChain is an exciting project aiming to use the EIP-4671 to verify and authenticate educational certificates. Currently, the EIP token hasnt developed into a full fledged ERC. Therefore, the develoment team built an ERC-721 token i.e and NFT and made it non-transferable.
