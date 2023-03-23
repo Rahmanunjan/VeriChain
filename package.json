@@ -1,0 +1,23 @@
+{
+  "name": "verichaintoken",
+  "version": "1.0.0",
+  "description": "An EIP-4671 token for verifying Educational certificates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EIP-4671",
+    "Token",
+    "Education"
+  ],
+  "author": "Adegbenga Ogungbeje",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2"
+  }
+}
