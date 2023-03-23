@@ -7,3 +7,9 @@ The following technologies were used in building the token:
 4. Vscode.
 5.Npm
 6. Hardhat
+
+The VeriChain Project is aiming to solve the following problems:
+a. Authenticity and verification of certificates.
+b. Enhanced trust regarding human identities and acheivements.
+c. Improved accountability and transparency.
+d. Personalised identity management.
