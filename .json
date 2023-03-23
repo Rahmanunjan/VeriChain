@@ -1,0 +1,19 @@
+{
+  "image": "https/ipfs.io/ipfs/QmS3YicdMmYwzMPykyfuiuMN8Sy9h6gVfrrjGtzHGdbvSB",
+  "description": "An educational Certificate from an awarding provider or institution",
+  "attributes": [
+    {
+      "trait_type": "GPA",
+      "value": 3,
+      "max_value": 4
+    },
+    {
+      "trait_type": "Major",
+      "value": "Doctor of Layer Two solutions"
+    },
+    {
+      "trait_type": "Type of Certificate",
+      "value": "Doctorate degree"
+    }
+  ]
+}
